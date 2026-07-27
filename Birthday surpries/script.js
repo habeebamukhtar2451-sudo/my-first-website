@@ -1,6 +1,6 @@
 let enteredPin = "";
 // Niche "1234" ki jagah aap apni marzi ka 4-digit password rakh sakte hain:
-const CORRECT_PIN = "1234"; 
+const CORRECT_PIN = "0609"; 
 
 function pressNum(num) {
   if (enteredPin.length < 4) {
